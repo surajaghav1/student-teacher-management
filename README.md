@@ -107,4 +107,4 @@ Ensure CORS is enabled in server.js and both servers are running.
 
 ✍️ Author
 **Suraj Aghav**
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/surajaghav1/)
